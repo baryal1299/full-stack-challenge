@@ -1,0 +1,9 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# API keys and secrets
+.env
+
+# IDE configurations
+.idea
